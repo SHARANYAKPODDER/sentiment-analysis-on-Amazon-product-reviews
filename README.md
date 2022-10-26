@@ -1,4 +1,4 @@
-# sentiment-analysis-on-woman-s-clothing
+# sentiment-analysis-on-womens-clothing
 "Sentiment Analysis and Classification Project using Amazon dataset and using ML and DL models."
 Here, I am specifically mentioning that you have to install the pandas_profiling from colab only because its not working in Jupyter.
 you have to run this code snippet in colab,
